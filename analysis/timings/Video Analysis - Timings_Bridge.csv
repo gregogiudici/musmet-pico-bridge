@@ -17,3 +17,5 @@ N,User ID,Device,Room,Bootstrap,WiFi Config,MIDI Connection,OSC Configuration,Wi
 16,8,Bridge,2,19,153,11,21,174,204
 17,9,Bridge,1,62,165,23,34,199,284
 18,9,Bridge,2,35,167,20,30,197,252
+19,10,Bridge,1,54,228,16,74,302,372
+20,10,Bridge,2,18,116,25,33,149,192
